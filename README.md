@@ -8,9 +8,9 @@
 
 <ul>
   <li>🎓 I'm currently pursuing my degree in Computer Science at SVU University.</li>
-  <li>💡 My core programming languages are <strong>C++</strong> and <strong>Python</strong>.</li>
+  <li>💡 My core programming languages are <strong>C++</strong> and <strong>Python</strong> Programming<strong>.</li>
   <li>🔒 I have a growing passion for <strong>Cybersecurity</strong> and love learning about ethical hacking and security tools.</li>
-  <li>🎮 In my free time, I work on game plugins using <strong>Pawn (AMX Mod X)</strong>, enhancing the experience of classics like CS 1.6.</li>
+  <li>🎮 In my free time, I work on game plugins using <strong>Pawn Programming (AMX Mod X)</strong>, enhancing the experience of classics like CS 1.6.</li>
 </ul>
 
 ---
