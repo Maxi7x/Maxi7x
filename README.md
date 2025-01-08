@@ -26,7 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   </a>
   <img width="12" />
-  <a href="https://www.compuphase.com/pawn/pawn.htm" target="_blank">
+  <a href="https://wiki.alliedmods.net/Pawn_Tutorial" target="_blank">
     <img src="https://i.postimg.cc/kgqdRt17/Screenshot-2025-01-08-015015.png" height="40" alt="Pawn" />
   </a>
 </div>
