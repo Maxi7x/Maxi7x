@@ -66,8 +66,8 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi7x&hide_progress=true&theme=dark" alt="Languages Graph" height="130">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxi7x&rank_icon=github&theme=dark" alt="Profile Stats" height="130">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi7x&hide_progress=true&theme=dark#gh-dark-mode-only" alt="Languages Graph" height="130">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxi7x&show_icons=true&theme=dark#gh-dark-mode-only" alt="Profile Stats" height="130">
   <br />
   <img src="https://github-profile-trophy.vercel.app?username=Maxi7x&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="Trophy Graph" />
 </div>
