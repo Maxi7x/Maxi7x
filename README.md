@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
 
-<p align="center">Hi there! I'm a passionate <strong>Computer Science</strong> student at <strong>SVU University</strong>. With a deep interest in <strong>Cybersecurity</strong>, I thrive on coding challenges and exploring new technologies. During my free time, I enjoy creating plugins for games like <strong>Counter-Strike 1.6</strong> using Pawn (AMX Mod X).</p>
+<p align="center">Hi there! I'm a passionate <strong>Computer Science</strong> student at <strong>SVU University</strong>. With a deep interest in <strong>Cybersecurity</strong>, I thrive on coding challenges and exploring new technologies. During my free time, I enjoy creating plugins for games like <strong>Counter-Strike 1.6</strong> using <strong>Pawn (AMX Mod X)</strong>.</p>
 
 ---
 
