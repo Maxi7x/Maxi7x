@@ -7,8 +7,8 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 I'm currently pursuing my degree in Computer Science at SVU University.</li>
-  <li>💡 My core programming languages are <strong>C++</strong> and <strong>Python</strong> Programming<strong>.</li>
+  <li>🎓 I'm currently pursuing my degree in <strong>Computer Science</strong> at SVU University.</li>
+  <li>💡 My core programming languages are <strong>C++</strong> and <strong>Python</strong>.</li>
   <li>🔒 I have a growing passion for <strong>Cybersecurity</strong> and love learning about ethical hacking and security tools.</li>
   <li>🎮 In my free time, I work on game plugins using <strong>Pawn Programming (AMX Mod X)</strong>, enhancing the experience of classics like CS 1.6.</li>
 </ul>
@@ -48,8 +48,8 @@
 <h2 align="center">🎯 Current Goals</h2>
 
 <ul>
-  <li>📖 Expand my knowledge in <strong>Cybersecurity</strong> and ethical hacking.</li>
-  <li>🚀 Build open-source projects that contribute to the tech community.</li>
+  <li>📖 Expand my knowledge in <strong>Cybersecurity</strong> and <strong>Ethical hacking</strong>.</li>
+  <li>🚀 Build <strong>open-source projects</strong> that contribute to the tech community.</li>
   <li>🌱 Learn advanced techniques in <strong>Machine Learning</strong> and <strong>Cloud Computing</strong>.</li>
 </ul>
 
@@ -66,7 +66,9 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxi7x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi7x&hide_progress=true&theme=dark" alt="Languages Graph" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxi7x&rank_icon=github&theme=dark" alt="Profile Stats" height="150">
+  <br />
   <img src="https://github-profile-trophy.vercel.app?username=Maxi7x&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="Trophy Graph" />
 </div>
 
